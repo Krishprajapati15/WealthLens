@@ -18,7 +18,6 @@ export default function VapiPage() {
       await vapi.stop();
     });
 
-    // Call Status
     vapi.on("call-start", () => {
       console.log("Call Started");
     });
