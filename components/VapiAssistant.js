@@ -46,7 +46,6 @@ export default function VapiPage() {
       }
     });
 
-    // Function Call Handling
     vapi.on("message", (msg) => {
       if (msg.type !== "function-call") return;
 
