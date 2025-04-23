@@ -13,6 +13,7 @@ import { MeteorsDemo } from "@/components/Howitwork";
 import { useState } from "react";
 import { TextHoverEffect } from "@/components/ui/text-hover-effect";
 import Spline from "@splinetool/react-spline";
+import VapiAssistant from "@/components/VapiAssistant";
 
 export default function Home() {
   const [isMonthly, setIsMonthly] = useState(true);
@@ -276,6 +277,10 @@ export default function Home() {
           </div>
         </div>
       </section>
+      {/* Voice Assistant Floating */}
+      <div className="fixed bottom-6 right-6 z-50">
+        <VapiAssistant />
+      </div>
     </div>
   );
 }
