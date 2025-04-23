@@ -4,7 +4,7 @@ import Vapi from "@vapi-ai/web";
 
 export default function VapiPage() {
   useEffect(() => {
-    const vapi = new Vapi("eaca5422-eca6-4653-92fc-8ec899e6cebf"); // Your Public Key
+    const vapi = new Vapi("eaca5422-eca6-4653-92fc-8ec899e6cebf");
 
     const assistantId = "d449af11-736a-41c6-8950-4fb38b96e801";
 
