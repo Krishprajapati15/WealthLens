@@ -26,7 +26,6 @@ export default function VapiPage() {
       console.log("Call Ended");
     });
 
-    // Assistant Speaking
     vapi.on("speech-start", () => {
       console.log("Assistant is speaking...");
     });
