@@ -34,7 +34,6 @@ export default function VapiPage() {
       console.log("Assistant finished speaking.");
     });
 
-    // Transcription Handling
     vapi.on("message", (msg) => {
       if (msg.type !== "transcript") return;
 
