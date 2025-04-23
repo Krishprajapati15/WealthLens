@@ -8,13 +8,11 @@ export default function VapiPage() {
 
     const assistantId = "d449af11-736a-41c6-8950-4fb38b96e801";
 
-    // Start Call
     const startCallButton = document.getElementById("start-call");
     startCallButton?.addEventListener("click", async () => {
       await vapi.start(assistantId);
     });
 
-    // Stop Call
     const stopCallButton = document.getElementById("stop-call");
     stopCallButton?.addEventListener("click", async () => {
       await vapi.stop();
