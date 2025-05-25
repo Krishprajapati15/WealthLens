@@ -1,5 +1,3 @@
-
-
 function calculateTax(income) {
   if (income <= 250000) return 0;
   if (income <= 500000) return (income - 250000) * 0.05;
@@ -9,4 +7,5 @@ function calculateTax(income) {
 
 const userIncome = 750000;
 const taxAmount = calculateTax(userIncome);
+console.log(`Tax on ₹${userIncome} is ₹${taxAmount}`);
 console.log(`Tax on ₹${userIncome} is ₹${taxAmount}`);
