@@ -1,6 +1,4 @@
-https://dashboard.clerk.com/apps/app_2qktKI0hhgNHh9ExoRWg7aw6jnu/instances/ins_2qktKN03IDthwCeMxISV7jIJ6nu/user-authentication/email-phone-username
-https://github.com/piyush-eon/ai-finance-platform/blob/main/app/(main)/transaction/_components/transaction-form.jsx
-https://supabase.com/dashboard/project/mjikmyzbuvikwdjasgqt/editor/29253?schema=public
+
 
 https://dribbble.com/search/finance-site-design
 http://localhost:8288/runs
