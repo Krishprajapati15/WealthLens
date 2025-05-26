@@ -8,4 +8,3 @@ function calculateTax(income) {
 const userIncome = 750000;
 const taxAmount = calculateTax(userIncome);
 console.log(`Tax on ₹${userIncome} is ₹${taxAmount}`);
-console.log(`Tax on ₹${userIncome} is ₹${taxAmount}`);
