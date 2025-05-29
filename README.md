@@ -1,6 +1,6 @@
 # 🌟 **WealthLens** - Your AI-Powered Financial Companion 💼
 
-![WealthLens Banner](https://example.com/path-to-your-banner-image.jpg) <!-- Replace with the actual image URL -->
+
 
 **WealthLens** is the next-level financial management platform designed for individuals and businesses to effortlessly manage their finances with the help of cutting-edge AI tools. Get ready to streamline everything from **expense tracking** to **predictive tax estimation**, all in one place! 🚀
 
